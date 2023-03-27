@@ -103,7 +103,7 @@
 
 | Lecture | Credit | Major | Repo |
 |:---:|:---:|:---:|:---:|
-| 알고리즘2 | 3 | ✔️ |  |
+| 알고리즘2 | 3 | ✔️ | [#](https://github.com/hiheidy/KNU_undergraduate_lectures/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%982) |
 | 한국선사고고학 | 3 |  |  |
 | 대규모병렬컴퓨팅 | 3 | ✔️ |  |
 | 종합설계프로젝트1 | 4 | ✔️ |  |
